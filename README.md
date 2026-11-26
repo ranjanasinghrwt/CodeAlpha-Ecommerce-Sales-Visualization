@@ -1,8 +1,8 @@
 # CodeAlpha 
 ## Task 2: E-Commerce Sales & Business Performance Analysis
   
-**Notebook by:** Ranjana Singh Rawat  
-**Notebook:** `CodeAlpha_Task2_Ecommerce_Data_Visualization.ipynb`
+**Notebook by:** Ranjana Singh 
+**Notebook:** [View Jupyter Notebook](CodeAlpha_Task2_Ecommerce_Data_Visualization.ipynb)
 
 ## Project Overview
 This project focuses on transforming raw e-commerce data into meaningful visualisations using Python and Tableau. The objective is to analyse sales trends, product category performance, customer payment preferences and seller performance through charts and an interactive dashboard.
@@ -56,7 +56,7 @@ These insights can support better understanding of e-commerce business performan
 ## Dashboard Preview
 The Tableau dashboard combines five visualisations to provide an overview of e-commerce sales and business performance.
 
-**Dashboard Screenshot:** Add your Tableau dashboard screenshot here.
+**Dashboard Screenshot:** ![E-Commerce Dashboard](dashboard-preview.png)
 
 **Tableau Public Link:** [View Interactive Dashboard](https://public.tableau.com/app/profile/ranjana.singh7196/viz/Ecommerce_Sales_Analysis5/E-CommerceSalesBuisnessPerformanceDashboard)
 
